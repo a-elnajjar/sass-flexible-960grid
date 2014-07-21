@@ -1,0 +1,248 @@
+2014-07-19 13:40:36 overwrite stylesheets/screen.css 
+2014-07-19 13:42:09 overwrite stylesheets/screen.css 
+2014-07-19 13:54:55     error sass/screen.scss (Line 25: Invalid CSS after "#two": expected "{", was "")
+2014-07-19 13:54:55 overwrite stylesheets/screen.css 
+2014-07-19 13:55:29 overwrite stylesheets/screen.css 
+2014-07-19 13:55:46 identical stylesheets/screen.css 
+2014-07-19 13:55:49 identical stylesheets/screen.css 
+2014-07-19 13:56:05    remove .sass-cache/ 
+2014-07-19 13:56:05    remove stylesheets/screen.css 
+2014-07-19 13:56:05    create stylesheets/screen.css 
+2014-07-19 13:57:10    remove .sass-cache/ 
+2014-07-19 13:57:10    remove stylesheets/screen.css 
+2014-07-19 13:57:11    create stylesheets/screen.css 
+2014-07-19 13:57:40 identical stylesheets/screen.css 
+2014-07-19 13:57:57    remove .sass-cache/ 
+2014-07-19 13:57:57    remove stylesheets/screen.css 
+2014-07-19 13:57:57    create stylesheets/screen.css 
+2014-07-19 14:04:07 overwrite stylesheets/screen.css 
+2014-07-19 14:04:14 identical stylesheets/screen.css 
+2014-07-19 14:04:41 identical stylesheets/screen.css 
+2014-07-19 14:05:49 overwrite stylesheets/screen.css 
+2014-07-19 14:05:50 identical stylesheets/screen.css 
+2014-07-19 14:05:55 identical stylesheets/screen.css 
+2014-07-19 14:05:57 identical stylesheets/screen.css 
+2014-07-19 14:06:00 identical stylesheets/screen.css 
+2014-07-19 14:06:01 identical stylesheets/screen.css 
+2014-07-19 14:09:28     error sass/screen.scss (Line 21: Invalid CSS after "	@extend:": expected pseudoclass or pseudoelement, was ".box;")
+2014-07-19 14:09:28 overwrite stylesheets/screen.css 
+2014-07-19 14:11:56     error sass/screen.scss (Line 21: Invalid CSS after "	@extend:": expected pseudoclass or pseudoelement, was ".box;")
+2014-07-19 14:11:56 identical stylesheets/screen.css 
+2014-07-19 14:12:03     error sass/screen.scss (Line 21: Invalid CSS after "	@extend:": expected pseudoclass or pseudoelement, was ".box;")
+2014-07-19 14:12:03 identical stylesheets/screen.css 
+2014-07-19 14:12:23 overwrite stylesheets/screen.css 
+2014-07-19 14:14:17 overwrite stylesheets/screen.css 
+2014-07-19 14:14:18 identical stylesheets/screen.css 
+2014-07-19 14:15:09     error sass/screen.scss (Line 28: Invalid CSS after "	$extend ": expected ":", was ".important")
+2014-07-19 14:15:09 overwrite stylesheets/screen.css 
+2014-07-19 14:15:12     error sass/screen.scss (Line 28: Invalid CSS after "	$extend ": expected ":", was ".important;")
+2014-07-19 14:15:12 overwrite stylesheets/screen.css 
+2014-07-19 14:15:23 overwrite stylesheets/screen.css 
+2014-07-19 14:16:10 identical stylesheets/screen.css 
+2014-07-20 12:50:51 overwrite stylesheets/screen.css 
+2014-07-20 12:51:04 identical stylesheets/screen.css 
+2014-07-20 12:51:30 identical stylesheets/screen.css 
+2014-07-20 12:53:06 overwrite stylesheets/screen.css 
+2014-07-20 12:53:45 overwrite stylesheets/screen.css 
+2014-07-20 12:58:08 overwrite stylesheets/screen.css 
+2014-07-20 12:58:59 overwrite stylesheets/screen.css 
+2014-07-20 12:59:56 overwrite stylesheets/screen.css 
+2014-07-20 13:00:01     error sass/screen.scss (Line 10: Invalid CSS after "...lude transetion": expected "{", was ";")
+2014-07-20 13:00:01 overwrite stylesheets/screen.css 
+2014-07-20 13:00:07     error sass/screen.scss (Line 10: Undefined mixin 'transetion'.)
+2014-07-20 13:00:07 overwrite stylesheets/screen.css 
+2014-07-20 13:00:14 overwrite stylesheets/screen.css 
+2014-07-20 13:03:43     error sass/screen.scss (Line 13: Invalid CSS after "		@include": expected identifier, was ":single-box-sha...")
+2014-07-20 13:03:43 overwrite stylesheets/screen.css 
+2014-07-20 13:04:04     error sass/screen.scss (Line 13: Invalid CSS after "		@include": expected identifier, was ": single-box-sh...")
+2014-07-20 13:04:04 overwrite stylesheets/screen.css 
+2014-07-20 13:04:11     error sass/screen.scss (Line 13: Invalid CSS after "		@include": expected identifier, was ": single-box-sh...")
+2014-07-20 13:04:11 identical stylesheets/screen.css 
+2014-07-20 13:04:23 overwrite stylesheets/screen.css 
+2014-07-20 13:04:24 identical stylesheets/screen.css 
+2014-07-20 13:04:35 identical stylesheets/screen.css 
+2014-07-20 13:05:21     error sass/screen.scss (Line 13: Invalid CSS after "...adow($blur:30px": expected ")", was ";);")
+2014-07-20 13:05:21 overwrite stylesheets/screen.css 
+2014-07-20 13:05:41     error sass/screen.scss (Line 13: Invalid CSS after "...adow($blur:30px": expected ")", was ";);")
+2014-07-20 13:05:41 identical stylesheets/screen.css 
+2014-07-20 13:05:50 overwrite stylesheets/screen.css 
+2014-07-20 13:05:56 identical stylesheets/screen.css 
+2014-07-20 13:45:38 overwrite stylesheets/screen.css 
+2014-07-20 13:46:38 overwrite stylesheets/screen.css 
+2014-07-20 13:47:20 overwrite stylesheets/screen.css 
+2014-07-20 13:47:32 identical stylesheets/screen.css 
+2014-07-20 13:49:08 overwrite stylesheets/screen.css 
+2014-07-20 13:49:13 identical stylesheets/screen.css 
+2014-07-20 13:49:58     error sass/screen.scss (Line 30: Invalid CSS after "		width: $i ": expected ";", was "# $columns_widt...")
+2014-07-20 13:49:58 overwrite stylesheets/screen.css 
+2014-07-20 13:50:09     error sass/screen.scss (Line 30: Invalid CSS after "		width: $i ": expected ";", was "# $columns_widt...")
+2014-07-20 13:50:09 identical stylesheets/screen.css 
+2014-07-20 13:50:18     error sass/screen.scss (Line 30: Undefined operation: "1 times 960px/columns".)
+2014-07-20 13:50:18 overwrite stylesheets/screen.css 
+2014-07-20 13:50:20     error sass/screen.scss (Line 30: Undefined operation: "1 times 960px/columns".)
+2014-07-20 13:50:20 identical stylesheets/screen.css 
+2014-07-20 13:50:29     error sass/screen.scss (Line 30: Undefined operation: "1 times 960px/columns".)
+2014-07-20 13:50:29 identical stylesheets/screen.css 
+2014-07-20 13:50:47     error sass/screen.scss (Line 30: Undefined operation: "1 times 960px/columns".)
+2014-07-20 13:50:47 identical stylesheets/screen.css 
+2014-07-20 13:51:52     error sass/screen.scss (Line 30: Undefined operation: "1 times 960px/columns".)
+2014-07-20 13:51:52 identical stylesheets/screen.css 
+2014-07-20 13:52:00     error sass/screen.scss (Line 30: Undefined operation: "1 times 960px/columns".)
+2014-07-20 13:52:00 identical stylesheets/screen.css 
+2014-07-20 13:52:10     error sass/screen.scss (Line 30: Undefined operation: "1 times 960px/columns".)
+2014-07-20 13:52:10 identical stylesheets/screen.css 
+2014-07-20 13:52:33 overwrite stylesheets/screen.css 
+2014-07-20 13:52:38 identical stylesheets/screen.css 
+2014-07-20 13:59:05 overwrite stylesheets/screen.css 
+2014-07-20 14:02:40 overwrite stylesheets/screen.css 
+2014-07-20 14:06:18 overwrite stylesheets/screen.css 
+2014-07-20 14:06:21 identical stylesheets/screen.css 
+2014-07-20 14:06:30 identical stylesheets/screen.css 
+2014-07-20 14:07:09 overwrite stylesheets/screen.css 
+2014-07-20 14:08:25 overwrite stylesheets/screen.css 
+2014-07-20 14:09:01 overwrite stylesheets/screen.css 
+2014-07-20 14:10:06 overwrite stylesheets/screen.css 
+2014-07-20 14:10:27 overwrite stylesheets/screen.css 
+2014-07-20 14:11:40 identical stylesheets/screen.css 
+2014-07-20 14:14:20     error sass/screen.scss (Line 39: Invalid CSS after "@if $prefix ": expected "{", was "= true")
+2014-07-20 14:14:20 overwrite stylesheets/screen.css 
+2014-07-20 14:14:33     error sass/screen.scss (Line 39: Invalid CSS after "@if $prefix ": expected "{", was "= true")
+2014-07-20 14:14:33 identical stylesheets/screen.css 
+2014-07-20 14:14:51     error sass/screen.scss (Line 68: Invalid CSS after "}": expected "}", was "")
+2014-07-20 14:14:51 overwrite stylesheets/screen.css 
+2014-07-20 14:15:10     error sass/screen.scss (Line 68: Invalid CSS after "}": expected "}", was "")
+2014-07-20 14:15:10 identical stylesheets/screen.css 
+2014-07-20 14:15:13     error sass/screen.scss (Line 68: Invalid CSS after "}": expected "}", was "")
+2014-07-20 14:15:13 identical stylesheets/screen.css 
+2014-07-20 14:15:32     error sass/screen.scss (Line 68: Invalid CSS after "}": expected "}", was "")
+2014-07-20 14:15:32 identical stylesheets/screen.css 
+2014-07-20 14:15:41     error sass/screen.scss (Line 39: Undefined variable: "$prefix".)
+2014-07-20 14:15:41 overwrite stylesheets/screen.css 
+2014-07-20 14:15:51     error sass/screen.scss (Line 39: Undefined variable: "$prefix".)
+2014-07-20 14:15:51 identical stylesheets/screen.css 
+2014-07-20 14:15:52     error sass/screen.scss (Line 39: Undefined variable: "$prefix".)
+2014-07-20 14:15:52 identical stylesheets/screen.css 
+2014-07-20 14:16:26     error sass/screen.scss (Line 39: Undefined variable: "$prefix".)
+2014-07-20 14:16:26 identical stylesheets/screen.css 
+2014-07-20 14:16:45     error sass/screen.scss (Line 39: Undefined variable: "$prefix".)
+2014-07-20 14:16:45 identical stylesheets/screen.css 
+2014-07-20 14:18:31 overwrite stylesheets/screen.css 
+2014-07-20 14:18:33 identical stylesheets/screen.css 
+2014-07-20 14:18:35 identical stylesheets/screen.css 
+2014-07-20 14:18:47 identical stylesheets/screen.css 
+2014-07-20 14:20:05 overwrite stylesheets/screen.css 
+2014-07-20 14:20:09 identical stylesheets/screen.css 
+2014-07-20 14:20:11 identical stylesheets/screen.css 
+2014-07-20 14:20:12 identical stylesheets/screen.css 
+2014-07-20 14:20:40 identical stylesheets/screen.css 
+2014-07-20 14:21:05 overwrite stylesheets/screen.css 
+2014-07-20 14:21:10 identical stylesheets/screen.css 
+2014-07-20 14:21:12 identical stylesheets/screen.css 
+2014-07-20 14:21:55 overwrite stylesheets/screen.css 
+2014-07-20 14:31:31 overwrite stylesheets/screen.css 
+2014-07-20 14:31:37 identical stylesheets/screen.css 
+2014-07-20 14:31:41 identical stylesheets/screen.css 
+2014-07-20 14:32:27 identical stylesheets/screen.css 
+2014-07-20 14:35:00 overwrite stylesheets/screen.css 
+2014-07-20 14:37:07     error sass/screen.scss (Line 33: Invalid CSS after "...$width: 360px, ": expected variable (e.g. $foo), was "gutter:20px,$pr...")
+2014-07-20 14:37:07 overwrite stylesheets/screen.css 
+2014-07-20 14:37:32     error sass/screen.scss (Line 36: Invalid CSS after "	$width: 360px,": expected variable (e.g. $foo), was "gutter:20px,")
+2014-07-20 14:37:32 overwrite stylesheets/screen.css 
+2014-07-20 14:38:19 overwrite stylesheets/screen.css 
+2014-07-20 14:38:38 identical stylesheets/screen.css 
+2014-07-20 14:44:56 overwrite stylesheets/screen.css 
+2014-07-20 14:46:04     error sass/screen.scss (Line 55: Undefined variable: "$columns_width".)
+2014-07-20 14:46:04 overwrite stylesheets/screen.css 
+2014-07-20 14:46:41     error sass/screen.scss (Line 56: Undefined variable: "$columns_width".)
+2014-07-20 14:46:41 overwrite stylesheets/screen.css 
+2014-07-20 14:47:04     error sass/screen.scss (Line 56: Undefined variable: "$columns_width".)
+2014-07-20 14:47:04 identical stylesheets/screen.css 
+2014-07-20 14:47:06     error sass/screen.scss (Line 56: Undefined variable: "$columns_width".)
+2014-07-20 14:47:06 identical stylesheets/screen.css 
+2014-07-20 14:47:35 overwrite stylesheets/screen.css 
+2014-07-20 14:47:42 identical stylesheets/screen.css 
+2014-07-20 14:55:11 identical stylesheets/screen.css 
+2014-07-20 14:56:23 identical stylesheets/screen.css 
+2014-07-20 14:57:57 identical stylesheets/screen.css 
+2014-07-20 15:02:04 identical stylesheets/screen.css 
+2014-07-20 15:02:12 identical stylesheets/screen.css 
+2014-07-20 15:03:10     error sass/screen.scss (Line 3: Undefined mixin 'genetate_grid'.)
+2014-07-20 15:03:10 overwrite stylesheets/screen.css 
+2014-07-20 15:03:51 overwrite stylesheets/screen.css 
+2014-07-20 15:15:45     error sass/screen.scss (Line 50 of sass/_grid.scss: Undefined variable: "$columns".)
+2014-07-20 15:15:45 overwrite stylesheets/screen.css 
+2014-07-20 15:17:10     error sass/screen.scss (Line 87 of sass/_grid.scss: Invalid CSS after "	}": expected "}", was "")
+2014-07-20 15:17:10 overwrite stylesheets/screen.css 
+2014-07-20 15:17:37     error sass/screen.scss (Line 50 of sass/_grid.scss: Undefined variable: "$columns".)
+2014-07-20 15:17:37 overwrite stylesheets/screen.css 
+2014-07-20 15:17:48     error sass/screen.scss (Line 50 of sass/_grid.scss: Undefined variable: "$columns".)
+2014-07-20 15:17:48 identical stylesheets/screen.css 
+2014-07-20 15:18:10     error sass/screen.scss (Line 50 of sass/_grid.scss: Undefined variable: "$columns".)
+2014-07-20 15:18:10 identical stylesheets/screen.css 
+2014-07-20 15:18:17     error sass/screen.scss (Line 50 of sass/_grid.scss: Undefined variable: "$columns".)
+2014-07-20 15:18:17 identical stylesheets/screen.css 
+2014-07-20 15:18:48 overwrite stylesheets/screen.css 
+2014-07-20 15:19:37     error sass/screen.scss (Line 50 of sass/_grid.scss: Undefined variable: "$columns".)
+2014-07-20 15:19:37 overwrite stylesheets/screen.css 
+2014-07-20 15:20:14     error sass/screen.scss (Line 88 of sass/_grid.scss: Invalid CSS after "}": expected selector or at-rule, was "}")
+2014-07-20 15:20:14 overwrite stylesheets/screen.css 
+2014-07-20 15:20:21     error sass/screen.scss (Line 50 of sass/_grid.scss: Undefined variable: "$columns".)
+2014-07-20 15:20:21 overwrite stylesheets/screen.css 
+2014-07-20 15:20:37     error sass/screen.scss (Line 50 of sass/_grid.scss: Undefined variable: "$columns".)
+2014-07-20 15:20:37 identical stylesheets/screen.css 
+2014-07-20 15:20:50     error sass/screen.scss (Line 55 of sass/_grid.scss: Undefined variable: "$columns_width".)
+2014-07-20 15:20:50 overwrite stylesheets/screen.css 
+2014-07-20 15:21:06 overwrite stylesheets/screen.css 
+2014-07-20 15:23:24     error sass/screen.scss (Line 40 of sass/_grid.scss: Mixins may not be defined within control directives or other mixins.)
+2014-07-20 15:23:24 overwrite stylesheets/screen.css 
+2014-07-20 15:24:54 overwrite stylesheets/screen.css 
+2014-07-20 18:47:39 overwrite stylesheets/screen.css 
+2014-07-20 18:47:53 identical stylesheets/screen.css 
+2014-07-20 18:48:21 identical stylesheets/screen.css 
+2014-07-20 18:51:32 identical stylesheets/screen.css 
+2014-07-20 19:01:04 overwrite stylesheets/screen.css 
+2014-07-20 19:01:47 overwrite stylesheets/screen.css 
+2014-07-20 19:07:18 overwrite stylesheets/screen.css 
+2014-07-20 19:14:44 overwrite stylesheets/screen.css 
+2014-07-20 19:18:28 overwrite stylesheets/screen.css 
+2014-07-20 19:18:31 identical stylesheets/screen.css 
+2014-07-20 19:21:20     error sass/screen.scss (Line 60 of sass/_grid.scss: Base-level rules cannot contain the parent-selector-referencing character '&'.)
+2014-07-20 19:21:20 overwrite stylesheets/screen.css 
+2014-07-20 19:21:40 overwrite stylesheets/screen.css 
+2014-07-20 19:23:29     error sass/screen.scss (Line 35 of sass/_grid.scss: Invalid CSS after "	$push)": expected "{", was ";")
+2014-07-20 19:23:29 overwrite stylesheets/screen.css 
+2014-07-20 19:23:32     error sass/screen.scss (Line 35 of sass/_grid.scss: Invalid CSS after "	$push)": expected "{", was ";")
+2014-07-20 19:23:32 identical stylesheets/screen.css 
+2014-07-20 19:23:39     error sass/screen.scss (Line 35 of sass/_grid.scss: Invalid CSS after "	$push)": expected "{", was ";")
+2014-07-20 19:23:39 identical stylesheets/screen.css 
+2014-07-20 19:23:46     error sass/screen.scss (Line 35 of sass/_grid.scss: Invalid CSS after "	$push)": expected "{", was ";")
+2014-07-20 19:23:46 identical stylesheets/screen.css 
+2014-07-20 19:24:05     error sass/screen.scss (Line 35 of sass/_grid.scss: Invalid CSS after "	$push)": expected "{", was ";")
+2014-07-20 19:24:05 identical stylesheets/screen.css 
+2014-07-20 19:24:17     error sass/screen.scss (Line 35 of sass/_grid.scss: Invalid CSS after "	$push)": expected "{", was ";")
+2014-07-20 19:24:17 identical stylesheets/screen.css 
+2014-07-20 19:24:24     error sass/screen.scss (Line 35 of sass/_grid.scss: Invalid CSS after "	$push)": expected "{", was ";")
+2014-07-20 19:24:24 identical stylesheets/screen.css 
+2014-07-20 19:25:04     error sass/screen.scss (Line 35 of sass/_grid.scss: Invalid CSS after "	$push)": expected "{", was ";")
+2014-07-20 19:25:04 identical stylesheets/screen.css 
+2014-07-20 19:25:30     error sass/screen.scss (Line 35 of sass/_grid.scss: Invalid CSS after "	$push)": expected "{", was ";")
+2014-07-20 19:25:30 identical stylesheets/screen.css 
+2014-07-20 19:25:36     error sass/screen.scss (Line 35 of sass/_grid.scss: Invalid CSS after "	$push)": expected "{", was ";")
+2014-07-20 19:25:36 identical stylesheets/screen.css 
+2014-07-20 19:25:54     error sass/screen.scss (Line 35 of sass/_grid.scss: Invalid CSS after "	$push)": expected "{", was ";")
+2014-07-20 19:25:54 identical stylesheets/screen.css 
+2014-07-20 19:26:15     error sass/screen.scss (Line 35 of sass/_grid.scss: Invalid CSS after "	$push)": expected "{", was ";")
+2014-07-20 19:26:15 identical stylesheets/screen.css 
+2014-07-20 19:27:48 overwrite stylesheets/screen.css 
+2014-07-20 19:28:09 overwrite stylesheets/screen.css 
+2014-07-20 19:28:34 overwrite stylesheets/screen.css 
+2014-07-20 19:29:04 overwrite stylesheets/screen.css 
+2014-07-20 19:33:30 overwrite stylesheets/screen.css 
+2014-07-20 19:35:47    create stylesheets/style.css 
+2014-07-20 19:37:04 identical stylesheets/style.css 
+2014-07-20 19:38:29 identical stylesheets/style.css 
+2014-07-20 19:43:41 overwrite stylesheets/style.css 
+2014-07-20 19:45:39 identical stylesheets/style.css 
+2014-07-20 19:45:47 identical stylesheets/style.css 
+2014-07-20 19:45:52 overwrite stylesheets/style.css 
+2014-07-20 19:46:09 identical stylesheets/style.css 
